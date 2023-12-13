@@ -1,0 +1,4 @@
+langchain==0.0.350
+loguru==0.7.2
+python-dotenv==1.0.0
+streamlit==1.29.0
